@@ -3,11 +3,10 @@
 
 
 # About #
-A simple File sharing app to upload and download files. Choose your Current year, Department
+A simple File sharing app to upload and download files. Choose your Current year and Department, Proceed to Upload and Download the files.
 
 
-<hr>
-<h4 align="center">Install Nodejs </h4>
+# Steps for Installation #
 
 - https://nodejs.org/en/download/ 
 - Configure Environment variables for Nodejs*
