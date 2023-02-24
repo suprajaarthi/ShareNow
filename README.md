@@ -20,9 +20,9 @@ A simple File sharing app to upload and download files. Choose your Current year
 
 
 # ✨ Features #
-✔️ Firebase File Management
-✔️ Firestore
-✔️ React-icons
+✔️ Firebase Authentication Management <br />
+✔️ Firestore <br />
+✔️ React-bootstrap <br />
 
 
 
