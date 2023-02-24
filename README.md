@@ -16,6 +16,24 @@ The following tools were used in this project:
 [Firebase](https://firebase.google.com/) <br />
 
 # 🏁 Starting # 
+
+```
+# Clone this project
+$ git clone https://github.com/suprajaarthi/ShareNow.git
+
+# Access
+$ cd focus-app-main
+
+# Install dependencies
+$ npm install
+
+# Run the project
+$ npm start
+
+# The server will initialize in the <http://localhost:3000>
+```
+
+
 - https://nodejs.org/en/download/ 
 - Configure Environment variables for Nodejs*
 - Check current version npm-v*
@@ -24,6 +42,11 @@ The following tools were used in this project:
 - cd focus-app-main
 - npm install 
 - npm start 
+
+
+Made with ❤️ by [Supraja Arthi](https://github.com/suprajaarthi)
+
+
 
 
 
