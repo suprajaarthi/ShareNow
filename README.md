@@ -5,7 +5,7 @@
 
 <h3 align="center">Install Nodejs </h3>
 
-- 🔭[I'm an inline-style link](https://www.google.com) *
+- 🔭[[I'm an inline-style link](https://nodejs.org/en/download/)](https://nodejs.org/en/download/) *
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
