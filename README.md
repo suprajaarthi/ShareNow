@@ -5,10 +5,9 @@
 
 <h3 align="center">Install Nodejs </h3>
 
-- 🔭 https://nodejs.org/en/download/ *
-- 🔭 I like to explore *new technologies and develop quick hack solutions*
-- 🔭 I like to explore *new technologies and develop quick hack solutions*
-- 🔭 I like to explore *new technologies and develop quick hack solutions*
+- 🔭 https://nodejs.org/en/download/ 
+- 🔭 Configure Environment variables for Nodejs*
+- 🔭 Check current version npm-v*
 
 
 
