@@ -1,4 +1,3 @@
-# ShareNow
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Share+files+!+have+fun)](https://git.io/typing-svg)
 
 #  Steps for Installation #
@@ -6,7 +5,7 @@
 
 <h3 align="center">Install Nodejs </h3>
 
-- 🔭 I like to explore *new technologies and develop quick hack solutions*
+- 🔭[I'm an inline-style link](https://www.google.com) *
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
 - 🔭 I like to explore *new technologies and develop quick hack solutions*
