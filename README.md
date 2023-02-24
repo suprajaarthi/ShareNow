@@ -2,8 +2,6 @@
 
 
 
-# About #
-A simple File sharing app to upload and download files. Choose your Current year and Department, Proceed to Upload and Download the files.
 
 
 # Steps for Installation #
@@ -17,6 +15,14 @@ A simple File sharing app to upload and download files. Choose your Current year
 - npm install 
 - npm start 
 
+# 🎯 About #
+A simple File sharing app to upload and download files. Choose your Current year and Department, Proceed to Upload and Download the files.
+
+
+# ✨ Features #
+✔️ Firebase File Management
+✔️ Firestore
+✔️ React-icons
 
 
 
