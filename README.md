@@ -34,16 +34,6 @@ $ npm start
 ```
 
 
-- https://nodejs.org/en/download/ 
-- Configure Environment variables for Nodejs*
-- Check current version npm-v*
-- git clone https://github.com/suprajaarthi/ShareNow.git or Download zip 
-- Go to the root folder 
-- cd focus-app-main
-- npm install 
-- npm start 
-
-
 Made with ❤️ by [Supraja Arthi](https://github.com/suprajaarthi)
 
 
