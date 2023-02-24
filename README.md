@@ -3,11 +3,19 @@
 #  Steps for Installation #
 
 
-<h3 align="center">Install Nodejs </h3>
+<h5 align="center">Install Nodejs </h5>
 
 - https://nodejs.org/en/download/ 
 - Configure Environment variables for Nodejs*
 - Check current version npm-v*
+- git clone https://github.com/suprajaarthi/ShareNow.git or Download zip 
+- Go to the root folder 
+- cd focus-app-main
+- npm install 
+- npm start 
+
+
+
 
 
 
