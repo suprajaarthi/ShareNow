@@ -3,6 +3,11 @@
 #  Steps for Installation #
 
 
+<h2>🎯 About </h2>
+A simple File sharing app to upload and download files. Choose your Current year, Department
+
+
+<hr>
 <h4 align="center">Install Nodejs </h4>
 
 - https://nodejs.org/en/download/ 
