@@ -5,9 +5,9 @@
 
 <h3 align="center">Install Nodejs </h3>
 
-- 🔭 https://nodejs.org/en/download/ 
-- 🔭 Configure Environment variables for Nodejs*
-- 🔭 Check current version npm-v*
+ 🔭 https://nodejs.org/en/download/ 
+ 🔭 Configure Environment variables for Nodejs*
+ 🔭 Check current version npm-v*
 
 
 
