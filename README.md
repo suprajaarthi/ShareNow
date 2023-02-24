@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Share+files+!+have+fun)](https://git.io/typing-svg)
 
-#  Steps for Installation #
 
 
-<h2>🎯 About </h2>
+# About #
 A simple File sharing app to upload and download files. Choose your Current year, Department
 
 
