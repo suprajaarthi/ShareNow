@@ -24,8 +24,11 @@ A simple File sharing app to upload and download files. Choose your Current year
 ✔️ Firestore <br />
 ✔️ React-bootstrap <br />
 
+# 🚀 Technologies # 
 
-
+The following tools were used in this project:
+[React](https://pt-br.reactjs.org/)
+[Firebase](https://firebase.google.com/)
 
 
 
