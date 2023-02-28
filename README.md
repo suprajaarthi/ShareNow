@@ -11,7 +11,7 @@ A simple File sharing app to upload and download files. Choose your Current year
 
 # 🚀 Technologies # 
 
-The following tools were used in this project:
+The following tools were used in this project:  <br />
 ✅[React](https://pt-br.reactjs.org/) <br />
 ✅[Firebase](https://firebase.google.com/) <br />
 
