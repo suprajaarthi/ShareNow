@@ -7,11 +7,29 @@ import { auth } from '../firebase';
 const Signup = () => {
     const navigate = useNavigate();
 
+    const [regNum, setregNum] = useState('');
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('');
-  
+     const [error, setError] = useState(""); 
+  const min = 111202301;
+  const max = 111202320;
+
+  const [value, setValue] = useState();
+  const [number, setNumber] = useState("");
+
+  const handleNumberChange = (event) => {
+    const value = event.target.value;
+    setNumber(value);
+    if (value <= 111202301 && value >= 111202320) {
+       alert("Please enter a valid reg number");
+    } 
+  };
+
+
+
+
     const onSubmit = async (e) => {
       e.preventDefault()
       
@@ -53,6 +71,21 @@ const Signup = () => {
                     
                     <form onSubmit={onSubmit} className="mt-8 space-y-6" >                    
                         <div className=" space-y-6 rounded-md shadow-sm">
+                        <div>
+      <label className="sr-only" htmlFor="numberInput">Register Number</label>
+      <input
+              label="Register Number"
+
+        type="number"
+        id="numberInput"
+        name="numberInput"
+        min="111202301"
+        max="111202320"
+        value={number}
+        onChange={handleNumberChange}
+      />
+    </div>
+
                             <div>
                                 <label htmlFor="email-address" className="sr-only">
                                     First name
